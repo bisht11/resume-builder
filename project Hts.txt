@@ -1,0 +1,15 @@
+javascript -  for web 
+
+const inputFields = document.querySelector(".input-fields");
+-> We can grab a class/query by using javascript
+
+inputFields['name attribute'] -> targets the tag
+inputFields['name attribute'].value -> its value  
+
+
+
+project dependencies-
+CKEditor = text editor for input fields
+data can be fetched by using getdata()
+
+data resusing (DRY principle)
